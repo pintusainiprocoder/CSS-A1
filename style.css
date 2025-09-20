@@ -1,0 +1,37 @@
+h1 {
+color: red;
+}
+h2 {
+    color: rgb(35, 240, 35);
+    font-style: italic;
+}
+span {
+    background-color: yellow;
+}
+a {
+    background-color: yellow;
+    color: brown;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.italic {
+    font-style: italic;
+    text-decoration: underline;
+}
+.main {
+    color: rgb(122, 25, 25);
+   letter-spacing: 5px; 
+}
+.prg {
+    color: rgb(149, 27, 27);
+    font-size: 20px;
+}
+.font {
+    color: rgb(152, 17, 17);
+    font-size: 12px;
+    
+}
+.menu {
+    color: brown;
+    font-style: italic;
+}
